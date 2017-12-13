@@ -4,4 +4,4 @@ List of pandas
 * Giant panda
 * Red panda
 
-
+Giant pandas are not bears
