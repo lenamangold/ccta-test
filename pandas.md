@@ -4,3 +4,5 @@ List of pandas
 * Giant panda
 * Red panda
 
+* Blue panda
+
