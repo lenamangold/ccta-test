@@ -7,4 +7,4 @@ List of pandas
 List of panda food
 * Bamboo
 
-
+Giant pandas are not bears
