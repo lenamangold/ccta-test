@@ -6,6 +6,7 @@ List of pandas
 
 List of panda food
 * Bamboo
+* More bamboo
 
 List of things pandas hate
 * Things other than eating and sleeping
