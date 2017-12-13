@@ -7,4 +7,7 @@ List of pandas
 List of panda food
 * Bamboo
 
+List of things pandas hate
+* Things other than eating and sleeping
+
 Giant pandas are not bears
