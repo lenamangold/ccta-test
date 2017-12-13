@@ -4,4 +4,7 @@ List of pandas
 * Giant panda
 * Red panda
 
+List of panda food
+* Bamboo
+
 
